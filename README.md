@@ -3,7 +3,7 @@
 <h3 align="center">A passionate marketing data analyst based in Massachusetts.</h3>
 
 <img align="right" alt="Coding" width="500" height="430" src="https://github.com/LimiSimbakalia/DATA202/blob/8daf365b9fcf2de16c7873e091affb37708b8f9e/Untitled%20design.gif">
-🌱 I’m currently coding SQL and Python as part of my MS in Data Science program
+🌱 I’m currently coding in SQL and Python as part of my MS in Data Science program
 
 
 - 💬 Ask me about **activation channels, ad tech and advanced sudoku puzzles**
